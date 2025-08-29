@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Kiosk Carousel",
+  "description": "A dynamic kiosk application displaying a variety of engaging content slides, from images and videos to interactive polls and social feeds. Designed for fullscreen or mid-screen displays with mobile handoff via QR codes.",
+  "requestFramePermissions": []
+}
